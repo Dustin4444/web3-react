@@ -18,7 +18,7 @@
     "example"
   ],
   "devDependencies": {
-    "@coinbase/wallet-sdk": "^3.3.0",
+    "@coinbase/wallet-sdk": "^3.6.4",
     "@testing-library/react-hooks": "^8.0.0",
     "@tsconfig/recommended": "^1.0.1",
     "@types/jest": "^27.4.1",
@@ -29,7 +29,7 @@
     "@uniswap/eslint-config": "^1.1.1",
     "eslint": "^8.13.0",
     "jest": "^27.5.1",
-    "lerna": "^5",
+    "lerna": "^6.5.0",
     "react": "^18.0.0",
     "react-test-renderer": "^18.0.0",
     "ts-jest": "^27.1.4",
